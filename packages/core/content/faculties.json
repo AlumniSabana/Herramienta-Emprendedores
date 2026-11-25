@@ -1,0 +1,190 @@
+[
+  {
+    "id": "escuela-internacional-de-ciencias-economicas-y-administrativas",
+    "name": "Escuela Internacional de Ciencias Económicas y Administrativas",
+    "programs": [
+      {
+        "id": "administracion-de-empresas",
+        "name": "Administración de Empresas"
+      },
+      {
+        "id": "administracion-y-servicio",
+        "name": "Administración & Servicio"
+      },
+      {
+        "id": "administracion-de-mercadeo-y-logistica-internacionales",
+        "name": "Administración de Mercadeo y Logística Internacionales"
+      },
+      {
+        "id": "administracion-de-negocios-internacionales",
+        "name": "Administración de Negocios Internacionales"
+      },
+      {
+        "id": "economia-y-finanzas-internacionales",
+        "name": "Economía y Finanzas Internacionales"
+      },
+      {
+        "id": "economia-y-finanzas-internacionales-virtual",
+        "name": "Economía y Finanzas Internacionales Virtual"
+      },
+      {
+        "id": "gastronomia",
+        "name": "Gastronomía"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-ciencias-del-comportamiento",
+    "name": "Facultad de Ciencias del Comportamiento",
+    "programs": [
+      {
+        "id": "psicologia",
+        "name": "Psicología"
+      },
+      {
+        "id": "comportamiento-organizacional",
+        "name": "Comportamiento Organizacional"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-ciencias-de-la-vida-y-el-bienestar",
+    "name": "Facultad de Ciencias de la Vida y el Bienestar",
+    "programs": [
+      {
+        "id": "enfermeria",
+        "name": "Enfermería"
+      },
+      {
+        "id": "fisioterapia",
+        "name": "Fisioterapia"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-comunicacion",
+    "name": "Facultad de Comunicación",
+    "programs": [
+      {
+        "id": "comunicacion-audiovisual-y-multimedios",
+        "name": "Comunicación Audiovisual y Multimedios"
+      },
+      {
+        "id": "comunicacion-corporativa",
+        "name": "Comunicación Corporativa"
+      },
+      {
+        "id": "comunicacion-social-y-periodismo",
+        "name": "Comunicación Social y Periodismo"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-educacion",
+    "name": "Facultad de Educación",
+    "programs": [
+      {
+        "id": "licenciatura-en-educacion-infantil",
+        "name": "Licenciatura en Educación Infantil"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-estudios-juridicos-politicos-e-internacionales",
+    "name": "Facultad de Estudios Jurídicos, Políticos e Internacionales",
+    "programs": [
+      {
+        "id": "derecho",
+        "name": "Derecho"
+      },
+      {
+        "id": "ciencias-politicas",
+        "name": "Ciencias Políticas"
+      },
+      {
+        "id": "relaciones-internacionales",
+        "name": "Relaciones Internacionales"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-filosofia-y-ciencias-humanas",
+    "name": "Facultad de Filosofía y Ciencias Humanas",
+    "programs": [
+      {
+        "id": "filosofia",
+        "name": "Filosofía"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-ingenieria",
+    "name": "Facultad de Ingeniería",
+    "programs": [
+      {
+        "id": "ingenieria-industrial",
+        "name": "Ingeniería Industrial"
+      },
+      {
+        "id": "ingenieria-informatica",
+        "name": "Ingeniería Informática"
+      },
+      {
+        "id": "ingenieria-quimica",
+        "name": "Ingeniería Química"
+      },
+      {
+        "id": "ingenieria-civil",
+        "name": "Ingeniería Civil"
+      },
+      {
+        "id": "ingenieria-mecanica",
+        "name": "Ingeniería Mecánica"
+      },
+      {
+        "id": "ingenieria-de-bioproduccion",
+        "name": "Ingeniería de Bioproducción"
+      },
+      {
+        "id": "ingenieria-de-diseno-e-innovacion",
+        "name": "Ingeniería de Diseño e Innovación"
+      },
+      {
+        "id": "ingenieria-en-inteligencia-artificial",
+        "name": "Ingeniería en Inteligencia Artificial"
+      },
+      {
+        "id": "ciencia-de-datos",
+        "name": "Ciencia de Datos"
+      }
+    ]
+  },
+  {
+    "id": "facultad-de-medicina",
+    "name": "Facultad de Medicina",
+    "programs": [
+      {
+        "id": "medicina",
+        "name": "Medicina"
+      }
+    ]
+  },
+  {
+    "id": "otra",
+    "name": "Otra / no está en la lista",
+    "programs": [
+      {
+        "id": "otro-programa",
+        "name": "Otro programa"
+      },
+      {
+        "id": "posgrado",
+        "name": "Posgrado"
+      },
+      {
+        "id": "egresado-de-un-programa-que-ya-no-se-ofrece",
+        "name": "Egresado de un programa que ya no se ofrece"
+      }
+    ]
+  }
+]

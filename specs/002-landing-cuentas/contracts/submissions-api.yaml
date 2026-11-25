@@ -1,0 +1,116 @@
+openapi: 3.0.3
+info:
+  title: API del Diagnóstico de Perfil Emprendedor
+  version: 2.0.0
+  description: >
+    Versión 2: requiere sesión. Verifica la identidad con el servicio de cuentas, valida las 45
+    respuestas, recalcula el puntaje con la lógica compartida e inserta el resultado con la propia
+    identidad de la persona (RLS). No hay clave de servicio. Sustituye a la versión 1 de la
+    feature 001 (cuerpo con correo, programa y consentimiento).
+servers:
+  - url: /api
+paths:
+  /submissions:
+    post:
+      summary: Guardar el resultado de un diagnóstico completo
+      operationId: createSubmission
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SubmissionRequest'
+      responses:
+        '201':
+          description: Validado, puntuado y guardado en la cuenta de la persona.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SubmissionResponse'
+        '400':
+          description: Respuestas inválidas (faltantes, sobrantes, fuera de 1-4 o no enteras). No se guarda nada.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '401':
+          description: Sin sesión, token inválido o vencido.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '405':
+          description: Método distinto de POST.
+        '500':
+          description: >
+            Fallo al guardar. El cliente muestra el resultado calculado localmente con un aviso
+            no bloqueante.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      description: access_token de la sesión de Supabase (JWT). Se valida contra el servicio de cuentas en cada llamada.
+  schemas:
+    ProfileId:
+      type: string
+      enum:
+        - realista-gerencial
+        - realizador-comerciante
+        - artistico-imaginativo
+        - movilizador-social
+        - investigativo-creador
+    SubmissionRequest:
+      type: object
+      required: [answers]
+      description: Solo las respuestas. Cualquier otro campo (correo, programa, puntajes) se ignora.
+      properties:
+        answers:
+          type: object
+          description: Exactamente las 45 claves "x.n" (x 1-9, n 1-5), valores enteros 1 a 4.
+          additionalProperties:
+            type: integer
+            minimum: 1
+            maximum: 4
+    SubmissionResponse:
+      type: object
+      required: [id, scores, dominant, secondary, createdAt]
+      properties:
+        id:
+          type: string
+          format: uuid
+        scores:
+          type: object
+          additionalProperties:
+            type: integer
+            minimum: 9
+            maximum: 36
+        dominant:
+          type: array
+          minItems: 1
+          items:
+            $ref: '#/components/schemas/ProfileId'
+        secondary:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileId'
+        createdAt:
+          type: string
+          format: date-time
+    ErrorResponse:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: string
+          description: Mensaje en español apto para mostrar.
+        fields:
+          type: object
+          additionalProperties:
+            type: string

@@ -1,0 +1,525 @@
+[
+  {
+    "id": "realista-gerencial",
+    "name": "Realista - Gerencial",
+    "centralDesire": "Solucionar problemas eficientemente",
+    "centralFear": "Perder el control",
+    "centralPriority": "Procesar",
+    "description": "Los realizadores hacen las ideas realidad a través de planes tangibles. Un realizador ve el propósito mayor pero sin perder los detalles pequeños.\n\nSimplifica problemas complejos –su fuerza radica en la ejecución. Poniéndolo simple, son grandes haciendo que las cosas sucedan. Los realizadores prefieren procesos y sistemas en lugar de gente, y aplican sus habilidades organizacionales en cualquier campo.\n\nLos integrantes de este grupo valoran la organización, el planeamiento y el respeto a las reglas. Son detallistas gustan de colocar las manos en la masa, se interesan por asuntos concretos, normalmente evitan distracciones y prefieren trabajar con aquello que puedan ver y tocar. No operan con valores estimados, procuran la exactitud y no se dan por satisfecho hasta que todo no esté en orden. Son excelentes administradores y difícilmente comienzan un negocio de cero, prefieran asumir empresas que precisan mejorar procesos. El sistema de franquicias les es atractivo justamente por estar formado de esta manera.",
+    "shortDescription": "Los realizadores hacen las ideas realidad a través de planes tangibles.",
+    "strengths": "Emprendedores caracterizados por ser disciplinados, organizados y con alto enfoque al resultado. Son planeadores, generan soluciones para la empresa en relación a estructuras, procesos y sistemas para lograr resultados de forma más eficiente.",
+    "improvementAreas": "No sueltan de forma fácil el control de las situaciones, pueden ser dominantes y agresivos, cuentan con bajo coeficiente emocional. De forma natural, se enfocan en procesos y tareas, por lo tanto requieren mayor esfuerzo para conectarse con las personas y de esta forma, encontrarse abierto a nuevas ideas para así ser un líder y emprendedor efectivo.",
+    "strongCompetencies": [
+      {
+        "title": "Competencias cognitivas o intelectuales",
+        "items": [
+          "Pensamiento analítico",
+          "Razonamiento conceptual",
+          "Conocimiento de herramientas de gestión",
+          "Planificación y organización"
+        ]
+      },
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Búsqueda de información",
+          "Orientación al logro: interés recurrente por hacer algo mejor",
+          "Autonomía"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Visión estratégica",
+          "Autoridad y control sobre subordinados",
+          "Administración y resolución de conflictos"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Capacidad de trabajo bajo situación de alta exigencia",
+          "Preocupación por la calidad y el orden"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Orientación al cliente",
+          "Conciencia organizacional",
+          "Capacidad de evolucionar aceleradamente"
+        ]
+      }
+    ],
+    "competenciesToDevelop": [
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Asertividad",
+          "Empatía"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Desarrollo de personas",
+          "Liderazgo",
+          "Delegación"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Autocontrol",
+          "Adaptabilidad / Flexibilidad",
+          "Habilidades de comunicación"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Apertura e intereses multidisciplinarios",
+          "Capacidad de relacionamiento",
+          "Construcción y desarrollo de redes de contactos",
+          "Trabajo en equipo y colaboración"
+        ]
+      }
+    ],
+    "complementaryProfiles": [
+      "realizador-comerciante",
+      "artistico-imaginativo"
+    ],
+    "practicalAdvice": {
+      "intro": "Competencias sistemicas o de networking para desarrollar su capacidad de relacionamiento con otros y espiritu colaborativo para lograr procesos y resultados de mayor impacto para el crecimiento del emprendimiento.",
+      "steps": [
+        "Participar de forma activa de eventos de networking",
+        "Generar espacios e implementar herramientas de trabajo colaborativo",
+        "Poner en práctica (de forma incremental) la confianza, la flexibilidad y delegación de actividades a otros.",
+        "Implementar las actividades propuestas durante el proceso de incubación del emprendimiento, enfocadas en el desarrollo de habilidades del carácter emprendedor."
+      ]
+    }
+  },
+  {
+    "id": "realizador-comerciante",
+    "name": "Realizador - Comerciante",
+    "centralDesire": "Capitalizar oportunidades",
+    "centralFear": "Perder dinero",
+    "centralPriority": "Utilidades",
+    "description": "Los comerciantes están constantemente buscando la siguiente oportunidad – son buenos visualizando oportunidades de negocios y necesidades no satisfechas, así como identificar la forma de unir la oferta con la demanda. Frecuentemente mejoran una idea existente y son capaces de aplicar de forma innovadora conceptos de otras industrias.\n\nCon una disposición de asumir riesgos mayores que la mayoría de personas, los representantes de este grupo tienen una red de relacionamientos bien estructurada. Son más extrovertidos, competitivos, se centran en los beneficios y son autónomos en las decisiones que toman. Gustan de trabajar con metas y objetivos a ser alcanzados y, la mayoría de veces, no se sienten cómodos con las reglas y procedimientos previamente establecidos. No tienen mucha paciencia para las operaciones del día a día, el placer está en crear una empresa y no administrarla en lo cotidiano. Están ligados al mundo de la innovación, de las ideas, productos, servicios o procesos.",
+    "shortDescription": "Los comerciantes están constantemente buscando la siguiente oportunidad y son buenos visualizando necesidades no satisfechas de negocio.",
+    "strengths": "Emprendedores caracterizados por ser decisivos, persuasivos, capacidad para improvisar. Detectan con facilidad las oportunidades, con alta capacidad relacional, ingenio y tacto en el trabajo en equipo. Tiene un amplio espiritu de la persuación para lograr metas.",
+    "improvementAreas": "Tienen dificultad para enfocarse en metas de corto plazo, por su alto sentido de practicidad, algunas veces toman atajos que pueden perjudicar el proceso. Impacientes. A pesar, de contar con la habilidad para los negocios y encuentran de forma rápida soluciones para generar utilidades, es importante enfocarse en prácticas éticas y no solamente en utilidades inmediatas.",
+    "strongCompetencies": [
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Asertividad",
+          "Empatía",
+          "Orientación al logro: interés recurrente por hacer algo mejor",
+          "Autonomía",
+          "Iniciativa",
+          "Tenacidad y perseverancia"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Desarrollo de personas",
+          "Liderazgo",
+          "Delegación",
+          "Autoridad y control sobre subordinados"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Autocontrol",
+          "Adaptabilidad / Flexibilidad",
+          "Habilidades de comunicación"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Apertura e intereses multidisciplinarios",
+          "Capacidad de relacionamiento",
+          "Construcción y desarrollo de redes de contactos",
+          "Trabajo en equipo y colaboración",
+          "Orientación al cliente",
+          "Capacidad de evolucionar aceleradamente"
+        ]
+      }
+    ],
+    "competenciesToDevelop": [
+      {
+        "title": "Competencias Cognitivas o intelectuales",
+        "items": [
+          "Pensamiento analítico",
+          "Razonamiento conceptual",
+          "Conocimiento de herramientas de gestión",
+          "Planificación y organización"
+        ]
+      },
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Búsqueda de información",
+          "Paciente por el logro de resultados a largo plazo"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Visión estratégica",
+          "Administración y resolución de conflictos"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Capacidad de trabajo bajo situación de alta exigencia",
+          "Preocupación por la calidad y el orden"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Conciencia organizacional"
+        ]
+      }
+    ],
+    "complementaryProfiles": [
+      "realista-gerencial",
+      "investigativo-creador"
+    ],
+    "practicalAdvice": {
+      "intro": "Competencias cognitivas o intelectuales, así como competencias gerenciales y de eficacia personal, que lo lleven a la optimización de los procesos comerciales del emprendimiento, así como el aprendizaje y evolución acelerada de la empresa.",
+      "steps": [
+        "Socializar los avances para la toma de decisiones en equipo",
+        "Generar espacios y herramientas para la gestión de objetivos, indicadores de resultado, actividades y tiempo de las actividades que desempeña.",
+        "Documentar procesos y registrar lecciones aprendidades de su desempeño y el aprendizaje continuo del cliente para la toma de decisiones estrategicas del emprendimiento.",
+        "Implementar las actividades propuestas durante el proceso de incubación del emprendimiento, enfocadas en el desarrollo de habilidades del carácter emprendedor."
+      ]
+    }
+  },
+  {
+    "id": "artistico-imaginativo",
+    "name": "Artístico - Imaginativo",
+    "centralDesire": "Innovar",
+    "centralFear": "Quedarse sin ideas creativas",
+    "centralPriority": "Ideas",
+    "description": "Desafían frecuentemente el “status quo”, el perfil imaginativo sueña lo que puede ser. Toma riesgos que no siempre están calculados, navegan territorios inexplorados. Son aquellos que crean el futuro, sorprendiendo a los clientes y competidores. Estas personas son visionarias y construyen el futuro que visualizan. Rompen las reglas y preguntan ¿Por qué no?\n\nEmprendedores que se realizan en áreas que les permitan ejercitar su creatividad. Odian la rutina, son mucho más originales que la mayoría de las personas y, de una cierta forma, se sienten dueños de su tiempo. Son impulsivos, dramáticos, adoran las novedades, ven lo cotidiano a través del filtro de la emoción, toman más en cuenta la opinión de otros y no gustan de situaciones muy estructuradas o rutinarias. Libertad es la palabra clave, a la hora de crear, comunicar y relacionarse. Acostumbran a sentirse bien en áreas ligadas a la moda, belleza, decoración y arte.",
+    "shortDescription": "Desafían frecuentemente el “status quo”, el perfil imaginativo sueña lo que puede ser.",
+    "strengths": "Emprendedores caracterizados por sus pensamientos e ideas salvajes e imaginativas, cuentan con una mente innovadora. No tienen temor por desafiar el status quo. Es excelente en pensar en grande y con ideas diferenciadoras para cambiar la puesta en escena del emprendimiento en el mercado. Tiende a ser conducido por su instinto y tomar riesgos por las áreas de conocimiento y expertis en las que el emprendedor imaginativo y su equipo de trabajo tiene fortalezas en el mercado.",
+    "improvementAreas": "No sueltan de forma fácil actuar con prácticidad, dedica alta inversión emocional en ideas, algunas veces ante ideas opuestas se caracteriza por tener una posición defensiva. Mientras que es grande y resalta en su equipo y en el mercado por generar ideas innovadoras, deja de un lago la ejecución, con lo cual carece de una visión clara y de planificación para poner en marcha sus ideas. Debe recordar que las ideas sin acción crean impactos pequeños.",
+    "strongCompetencies": [
+      {
+        "title": "Cognitivas o intelectuales",
+        "items": [
+          "Pensamiento analítico",
+          "Razonamiento conceptual"
+        ]
+      },
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Búsqueda de información",
+          "Orientación al logro: interés recurrente por hacer algo mejor",
+          "Autonomía"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Visión estratégica",
+          "Autoridad y control sobre subordinados",
+          "Administración y resolución de conflictos"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Autocontrol",
+          "Adaptabilidad / Flexibilidad",
+          "Habilidades de comunicación"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Construcción y desarrollo de redes de contactos",
+          "Trabajo en equipo y colaboración",
+          "Apertura e intereses multidisciplinarios",
+          "Pensamiento lateral",
+          "Capacidad de visualización e imaginación"
+        ]
+      }
+    ],
+    "competenciesToDevelop": [
+      {
+        "title": "Competencias cognitivas o intelectuales",
+        "items": [
+          "Conocimiento de herramientas de gestión",
+          "Planificación y organización"
+        ]
+      },
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Asertividad",
+          "Empatía"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Desarrollo de personas",
+          "Liderazgo",
+          "Delegación"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Capacidad de trabajo bajo situación de alta exigencia",
+          "Preocupación por la calidad y el orden"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Capacidad de relacionamiento",
+          "Orientación al cliente",
+          "Conciencia organizacional",
+          "Capacidad de evolucionar aceleradamente"
+        ]
+      }
+    ],
+    "complementaryProfiles": [
+      "movilizador-social",
+      "realista-gerencial"
+    ],
+    "practicalAdvice": {
+      "intro": "Competencias cognitivas o intelectuales, así como competencias gerenciales y de eficacia personal, que lo lleven a la optimización de los procesos innovación empresarial, así como el aprendizaje y evolución acelerada de la empresa.",
+      "steps": [
+        "Generar espacios de trabajo colaborativo para el desarrollo de ideas.",
+        "Sistematizar y documentar procesos de desarrollo de ideas/productos y procesos innovadores creados por la empresa.",
+        "Participar de espacios de networking y realimentación de sus ideas para contar con mayor validación del mercado.",
+        "Implementar las actividades propuestas durante el proceso de incubación del emprendimiento, enfocadas en el desarrollo de habilidades del carácter emprendedor."
+      ]
+    }
+  },
+  {
+    "id": "movilizador-social",
+    "name": "Movilizador - Social",
+    "centralDesire": "Ayudar a otros",
+    "centralFear": "Conflictos",
+    "centralPriority": "Gente",
+    "description": "Los movilizadores son los hilos conductores – ellos conectan las ideas, la gente y los recursos;\nson excelentes cuando se trata de construir relaciones y formar equipos efectivos de trabajo. A estas personas les gusta estar inmersos en la operación, en el día a día, estar con la gente. Tienden a enfocarse en problemas sociales a gran escala y son catalizadores para el cambio sistémico.\n\nPara ellos el contacto social es primordial, disfrutan al convivir con personas y están siempre dispuestos a cuidar del bienestar de los demás por encima de los propios. Son extrovertidos, populares, casi no soportan estar solos, su principal motivación es compartir experiencias con otras personas.\nTiene facilidad para promover relaciones sociales y trabajar en equipo, si pudieran abrirían una ONG.\n\nConsiguen tener éxito frente de clínicas ligadas a la salud y la estética, restaurantes y librerías, por ejemplo.",
+    "shortDescription": "Los movilizadores son los hilos conductores: conectan las ideas, la gente y los recursos, y son excelentes construyendo relaciones y equipos efectivos.",
+    "strengths": "Emprendedores caracterizados por conectar con facilidad las ideas y la gente, empático y compasivo, siendo catalizador de cambio social. Es excelente relacionadose con otros y atrayendo personas que les conecta trabajar como equipo. Se preocupa profundamente acerca de los problemas sociales y queren generar impacto a partir de sus iniciativas empresariales.",
+    "improvementAreas": "Tiene alta dependencia por los demás, puede caracer de profundidad y conocimiento experto. Mientras que es grande en conectar personas e ideas para crear cambios sispemativos, puede enfocarse en desarrollar conocimiento en un área para así reducir su grado de dependencia en otros.",
+    "strongCompetencies": [
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Asertividad",
+          "Empatía",
+          "Orientación al logro: interés recurrente por hacer algo mejor",
+          "Iniciativa",
+          "Tenacidad y perseverancia"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Dirección y desarrollo de personas",
+          "Liderazgo",
+          "Delegación"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Autocontrol",
+          "Adaptabilidad / Flexibilidad",
+          "Habilidades de comunicación"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Apertura e intereses multidisciplinarios",
+          "Capacidad de relacionamiento",
+          "Construcción y desarrollo de redes de contactos",
+          "Trabajo en equipo y colaboración",
+          "Orientación al cliente",
+          "Capacidad de visualización e imaginación"
+        ]
+      }
+    ],
+    "competenciesToDevelop": [
+      {
+        "title": "Competencias Cognitivas o intelectuales",
+        "items": [
+          "Pensamiento analítico",
+          "Razonamiento conceptual",
+          "Conocimiento de herramientas de gestión",
+          "Planificación y organización"
+        ]
+      },
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Búsqueda de información",
+          "Autonomía",
+          "Paciente por el logro de resultados a largo plazo"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Visión estratégica",
+          "Autoridad y control sobre subordinados",
+          "Administración y resolución de conflictos",
+          "Negociación"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Capacidad de trabajo bajo situación de alta exigencia",
+          "Preocupación por la calidad y el orden"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Conciencia organizacional",
+          "Capacidad de evolucionar aceleradamente"
+        ]
+      }
+    ],
+    "complementaryProfiles": [
+      "realizador-comerciante",
+      "realista-gerencial"
+    ],
+    "practicalAdvice": {
+      "intro": "Competencias cognitivas e intelectuales, además de gerenciales que le lleven a fortalecer su capacidad de liderazgo y conocimiento profundo basado en su visión empresarial, para lograr procesos y resultados de mayor impacto para el crecimiento del emprendimiento.",
+      "steps": [
+        "Participar de forma activa de eventos de networking",
+        "Buscar espacios de entrenamiento y desarrollo en las áreas de desarrollo empresarial de su emprendimiento.",
+        "Documentar y estudiar con pensamiento análitico y critico la evolución empresarial de su emprendimiento.",
+        "Implementar las actividades propuestas durante el proceso de incubación del emprendimiento, enfocadas en el desarrollo de habilidades del carácter emprendedor."
+      ]
+    }
+  },
+  {
+    "id": "investigativo-creador",
+    "name": "Investigativo - Creador",
+    "centralDesire": "Ser un experto",
+    "centralFear": "Ser promedio",
+    "centralPriority": "Conocimiento",
+    "description": "Expertos, altamente calificados en habilidades y conocimiento, que además tienen una gran pasión por su área de especialización. Ellos trabajan enfocado en altos estándares de calidad y esperan lo mismo de otros. Un maestro a menudo es visto como un modelo a seguir, un líder o un “influencer” de alguna\nindustria.\n\nPersonas con ese perfil adoran saber como las cosas acontecen. Son simpáticas cautivantes, tienen espíritu de científicos y prefieren problemas abstractos, que exijan soluciones de investigaciones en vez de acciones. No les gusta ser parte de un único grupo y la mayoría no está orientada a lidiar con personas. Con personalidades que se enfocan en la introspectiva y autonomía, prefieren trabajar con controles, previsiones y todo lo que tenga rigurosidad científica, tecnológica e informativa.\n\nTienen podencial para desarrollar escuelas de idiomas, negocios ligados a tecnología y juegos, además de empresas orientadas a la trasferencia de conocimiento acostumbran a ser los preferidos.",
+    "shortDescription": "Expertos, altamente calificados en habilidades y conocimiento, que además tienen una gran pasión por su área de especialización.",
+    "strengths": "Emprendedores caracterizados por ser altamente entrenados y estudiados. Cuentan con alta confianza en si mismos y sus ideas. Tienen altos estandares de excelencia. Son excelentes buscadores de conocimiento y dominan normalmente más ciertas áreas de conocimiento que otras personas. Su expertis le hace tener un gran valor en el emprendimiento y tienden a ser perfeccionistas.",
+    "improvementAreas": "No sueltan de forma fácil el control de las situaciones, pueden ser inflexibles y no tienden a tener presente diferentes áreas de conocimiento para la toma de decisiones. Normalmente buscan ser reconocidos por su conocimiento, que a su vez les lleva a enfrentarse a correr el riesgo de perder la visión de la gran pintura. Deben esforzarse por abrirse a nuevas y diferentes opiniones fuera de sus áreas de conocimiento.",
+    "strongCompetencies": [
+      {
+        "title": "Cognitivas o intelectuales",
+        "items": [
+          "Pensamiento analítico",
+          "Razonamiento conceptual",
+          "Conocimiento de herramientas de gestión",
+          "Planificación y organización"
+        ]
+      },
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Búsqueda de información",
+          "Orientación al logro: interés recurrente por hacer algo mejor",
+          "Autonomía",
+          "Asertividad",
+          "Empatía"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Visión estratégica",
+          "Autoridad y control sobre subordinados",
+          "Administración y resolución de conflictos"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Capacidad de trabajo bajo situación de alta exigencia",
+          "Preocupación por la calidad y el orden"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Orientación al cliente",
+          "Conciencia organizacional",
+          "Capacidad de evolucionar aceleradamente"
+        ]
+      }
+    ],
+    "competenciesToDevelop": [
+      {
+        "title": "Cognitivas o intelectuales",
+        "items": [
+          "Conocimiento de herramientas de gestión",
+          "Planificación y organización"
+        ]
+      },
+      {
+        "title": "Competencias de logro y acción",
+        "items": [
+          "Creatividad",
+          "Iniciativa"
+        ]
+      },
+      {
+        "title": "Competencias gerenciales",
+        "items": [
+          "Desarrollo de personas",
+          "Liderazgo",
+          "Delegación"
+        ]
+      },
+      {
+        "title": "Competencias de eficacia personal",
+        "items": [
+          "Autocontrol",
+          "Adaptabilidad / Flexibilidad",
+          "Habilidades de comunicación"
+        ]
+      },
+      {
+        "title": "Competencias sistemicas o de Networking",
+        "items": [
+          "Apertura e intereses multidisciplinarios",
+          "Capacidad de relacionamiento",
+          "Construcción y desarrollo de redes de contactos",
+          "Trabajo en equipo y colaboración"
+        ]
+      }
+    ],
+    "complementaryProfiles": [
+      "movilizador-social",
+      "artistico-imaginativo"
+    ],
+    "practicalAdvice": {
+      "intro": "Competencias de eficiencia personal para desarrollar su capacidad de relacionamiento con otros, flexibilidad y adaptabilidad frente a los opiniones de terceros y espiritu colaborativo para lograr procesos y resultados de mayor impacto para el crecimiento del emprendimiento.",
+      "steps": [
+        "Participar de forma activa de eventos de networking",
+        "Generar espacios e implementar herramientas de trabajo colaborativo",
+        "Poner en práctica (de forma incremental) la confianza, la flexibilidad y delegación de actividades a otros."
+      ]
+    }
+  }
+]

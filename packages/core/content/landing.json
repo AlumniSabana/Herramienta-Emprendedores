@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "eyebrow": "CENTRO DE DESARROLLO PROFESIONAL · ALUMNI",
+    "title": "Conoce tu carácter emprendedor.",
+    "lead": "Un diagnóstico de 45 afirmaciones que te muestra, en un radar, qué perfil emprendedor tienes más desarrollado y cuál puedes potenciar.",
+    "primaryCta": "Crear mi cuenta",
+    "secondaryCta": "Ya tengo cuenta"
+  },
+  "tool": {
+    "eyebrow": "DIAGNÓSTICO",
+    "title": "Diagnóstico de perfil emprendedor",
+    "description": "Responde 9 bloques de 5 afirmaciones y recibe tu mapa de cinco perfiles emprendedores: lo que ya tienes desarrollado, lo que puedes potenciar y consejos prácticos para tu plan de acción. Toma unos 10 minutos.",
+    "bullets": [
+      "Nueve bloques de cinco afirmaciones",
+      "Radar con tus cinco perfiles",
+      "Fortalezas, oportunidades de mejora y plan de acción",
+      "Tu resultado queda guardado en tu cuenta"
+    ],
+    "cta": "Hacer el diagnóstico"
+  },
+  "steps": [
+    {
+      "title": "Crea tu cuenta",
+      "text": "Con tu correo @unisabana.edu.co. Un solo acceso sirve para todas las herramientas."
+    },
+    {
+      "title": "Responde a tu ritmo",
+      "text": "Contesta los 9 bloques del test; tus respuestas se conservan entre bloques y puedes volver atrás."
+    },
+    {
+      "title": "Conoce tu radar",
+      "text": "Mira tu perfil dominante, lo que ya tienes desarrollado y lo que puedes potenciar. Cuando quieras, rehaces el test."
+    }
+  ],
+  "privacy": {
+    "title": "Tu información es tuya",
+    "text": "Guardamos tu cuenta (nombre, facultad, programa y correo), tus respuestas y tu resultado para que puedas verlo cuando vuelvas y rehacer el test. Solo tú puedes ver tus resultados: no se comparten con docentes, empleadores ni terceros, salvo obligación legal. Puedes consultar, corregir o pedir la eliminación de tus datos conforme a la Política de Tratamiento de Datos Personales de la Universidad."
+  },
+  "footer": {
+    "copyright": "© 2026 Universidad de La Sabana · Centro de Desarrollo Profesional",
+    "policyLabel": "Política de datos personales"
+  }
+}

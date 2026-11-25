@@ -1,0 +1,383 @@
+{
+  "intro": "Estimado Emprendedor, este cuestionario le ayudará a perfilar su desarrollo como emprendedor, donde conocerá sus fortalezas y sus oportunidades de mejora para potenciar su perfil emprendedor. Por favor lea cuidadosamente cada una de las siguiente frases y califiquela de acuerdo a la descripción mas acertada, asi: Uno (1) si no es muy cierto; Dos (2) si es algo cierto; (3) si es cierto; Cuatro (4) si es muy cierto. Por favor responda de manera honesta, puesto que con base en lo que es usted realmente es podrá conocer el plan de acción para lograr el perfil de emprendedor que desea ser.",
+  "blocks": [
+    {
+      "number": 1,
+      "prompt": "Al comenzar un proyecto nuevo lo primero que haces es:",
+      "scaleLabels": [
+        "No es muy cierto de mí",
+        "Algo cierto de mí",
+        "Cierto de mí",
+        "Muy cierto de mí"
+      ],
+      "items": [
+        {
+          "id": "1.1",
+          "position": 1,
+          "text": "Planificar cada detalle y haces listas.",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "1.2",
+          "position": 2,
+          "text": "Buscar referentes o proyectos similares",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "1.3",
+          "position": 3,
+          "text": "Hacer una lluvia de ideas para pensar en ideas no-convencionales",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "1.4",
+          "position": 4,
+          "text": "Reunir al equipo de trabajo ideal.",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "1.5",
+          "position": 5,
+          "text": "Buscar de manera eficaz los recursos y conocimientos necesarios",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "prompt": "¿ Cuál crees que es el factor más importante para el éxito de tu proyecto?",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "2.1",
+          "position": 1,
+          "text": "Seguir los procedimientos adecuados",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "2.2",
+          "position": 2,
+          "text": "Estar siempre en la búsqueda de nuevas oportunidades o nuevos caminos a seguir",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "2.3",
+          "position": 3,
+          "text": "Tener una idea única",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "2.4",
+          "position": 4,
+          "text": "Tener al equipo de trabajo adecuado",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "2.5",
+          "position": 5,
+          "text": "Tener experiencia en los temas que requiere el proyecto",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "prompt": "Cuando estoy trabajando en equipo, la fortaleza que se destaca es:",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "3.1",
+          "position": 1,
+          "text": "Liderar, organizar o movilizar un grupo en torno a una causa o acción",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "3.2",
+          "position": 2,
+          "text": "Encontrar nuevas oportunidades o nuevos caminos a seguir",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "3.3",
+          "position": 3,
+          "text": "Pensar de forma diferente para aportar nuevas ideas",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "3.4",
+          "position": 4,
+          "text": "Relacionarse bien con otros, tener facilidad para dialogar",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "3.5",
+          "position": 5,
+          "text": "Ser capaz de dominar algo mejor que otros.",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "prompt": "A la hora de tomar una decisión importante con respecto al proyecto, yo:",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "4.1",
+          "position": 1,
+          "text": "Reviso si es acorde a mi plan de acción",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "4.2",
+          "position": 2,
+          "text": "Hago un comparativo de los costos y beneficios de las acciones",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "4.3",
+          "position": 3,
+          "text": "Sigo mi instinto y hago lo que me parece adecuado",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "4.4",
+          "position": 4,
+          "text": "Antes de tomar una decisión tengo en cuenta las opiniones de mi equipo o asesores externos",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "4.5",
+          "position": 5,
+          "text": "Reúno datos y toda la información necesaria",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "prompt": "¿Cuál sería tu mayor preocupación mientras el proyecto está en marcha?",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "5.1",
+          "position": 1,
+          "text": "Que las cosas se salgan de control o se vuelva un caos.",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "5.2",
+          "position": 2,
+          "text": "Que el proyecto no genere dinero",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "5.3",
+          "position": 3,
+          "text": "Quedarse sin ideas originales a mitad del proyecto",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "5.4",
+          "position": 4,
+          "text": "Los compañeros del equipo no trabajan bien juntos",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "5.5",
+          "position": 5,
+          "text": "No tener el conocimiento para terminar el proyecto satisfactoriamente",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "prompt": "Imagina que hay una crisis en algún punto del proyecto. Tu reacción sería:",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "6.1",
+          "position": 1,
+          "text": "Usar el Plan B que habia diseñado previamente",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "6.2",
+          "position": 2,
+          "text": "Sacarle el mejor provecho a la situación y adaptarme rápidamente",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "6.3",
+          "position": 3,
+          "text": "Pensar en cómo convertir el desafío en una oportunidad",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "6.4",
+          "position": 4,
+          "text": "Reunir al equipo y hacer una lluvia de ideas para encontrar una solución apropiada",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "6.5",
+          "position": 5,
+          "text": "Afrontar el desafío con la confianza de que puedo superarlo",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "prompt": "Imagina que te piden que evalúes tu proyecto y los proyectos de tus compañeros. Para ti ¿Qué es un proyecto exitoso?",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "7.1",
+          "position": 1,
+          "text": "El proyecto es ejecutado en forma efectiva y a tiempo.",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "7.2",
+          "position": 2,
+          "text": "El proyecto genera ganancias y sus finanzas tienen sentido",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "7.3",
+          "position": 3,
+          "text": "El proyecto tiene la solución más innovadora",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "7.4",
+          "position": 4,
+          "text": "Los compañeros de equipo complementan sus fortalezas entre si",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "7.5",
+          "position": 5,
+          "text": "El resultado final es de la más alta calidad, y presta atención a los detalles.",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "prompt": "Imagina que estás considerando iniciar un negocio. Tú comenzarías algo propio porque:",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "8.1",
+          "position": 1,
+          "text": "Encuentro una solución más eficiente al problema",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "8.2",
+          "position": 2,
+          "text": "Encuentro una oportunidad para construir en forma rápida y rentable.",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "8.3",
+          "position": 3,
+          "text": "Tengo una idea que cambiará el mundo.",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "8.4",
+          "position": 4,
+          "text": "Quiero resolver los problemas de la sociedad con mi emprendimiento.",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "8.5",
+          "position": 5,
+          "text": "Tengo el conocimiento y la experiencia para ofrecer un buen producto o servicio.",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "prompt": "Esta pregunta es acerca de tu perspectiva en la vida, en general. Tú crees que:",
+      "scaleLabels": [
+        "Nunca",
+        "Raras veces",
+        "Algunas Veces",
+        "Usualmente"
+      ],
+      "items": [
+        {
+          "id": "9.1",
+          "position": 1,
+          "text": "La vida es una aventura bien planeada.",
+          "profileId": "realista-gerencial"
+        },
+        {
+          "id": "9.2",
+          "position": 2,
+          "text": "La vida se trata de aprovechar al máximo cada momento.",
+          "profileId": "realizador-comerciante"
+        },
+        {
+          "id": "9.3",
+          "position": 3,
+          "text": "La vida se trata de vivir mis propios sueños.",
+          "profileId": "artistico-imaginativo"
+        },
+        {
+          "id": "9.4",
+          "position": 4,
+          "text": "La vida se trata de ayudar a otras personas",
+          "profileId": "movilizador-social"
+        },
+        {
+          "id": "9.5",
+          "position": 5,
+          "text": "La vida se trata de descubrir en lo que soy excelente y hacer algo con ello",
+          "profileId": "investigativo-creador"
+        }
+      ]
+    }
+  ]
+}

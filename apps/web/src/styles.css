@@ -1,0 +1,42 @@
+@import '@fontsource-variable/libre-franklin/wght.css';
+@import '@fontsource-variable/playfair-display/wght-italic.css';
+@import 'tailwindcss';
+
+/* Tokens de la familia visual TalentHub UniSabana · Herramientas CDP (medidos sobre la referencia). */
+@theme {
+  --color-navy: #00135b;
+  --color-navy-soft: #d9e1ef;
+  --color-brand-600: #00387d;
+  --color-page: #eef2f8;
+  --color-card: #ffffff;
+  --color-line: #d9e1ef; /* bordes decorativos de tarjetas */
+  --color-field: #7b86a6; /* borde de controles de formulario (3.6:1 sobre blanco, WCAG 1.4.11) */
+  --color-ink: #1f2a44;
+  --color-muted: #44506b;
+  --color-error: #b3261e;
+  --color-ok: #1b6b3a;
+  --font-sans: 'Libre Franklin Variable', 'Segoe UI', system-ui, sans-serif;
+  --font-display: 'Playfair Display Variable', Georgia, serif;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+body {
+  background: var(--color-page);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+h1,
+.display {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--color-navy);
+}
+:focus-visible {
+  outline: 3px solid #2f6bff;
+  outline-offset: 2px;
+}
